@@ -1,0 +1,55 @@
+﻿  Agent.cpp
+  Camera2D.cpp
+  Error.cpp
+  GLS_Program.cpp
+  Human.cpp
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(7,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(9,27): warning C4244:  '=': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(9,27): warning C4244:         with
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(9,27): warning C4244:         [
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(9,27): warning C4244:             T=float
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(9,27): warning C4244:         ]
+  ImageLoader.cpp
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(10,28): warning C4244:  '=': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(10,28): warning C4244:         with
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(10,28): warning C4244:         [
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(10,28): warning C4244:             T=float
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Human.cpp(10,28): warning C4244:         ]
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\ImageLoader.cpp(36,19): warning C4244:  '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
+  InputManager.cpp
+  IOManager.cpp
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\ImageLoader.cpp(37,18): warning C4244:  '=': conversión de 'unsigned long' a 'float'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\IOManager.cpp(15,15): warning C4244:  'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  Level.cpp
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\IOManager.cpp(18,26): warning C4244:  '-=': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(57,25): warning C4244:  '=': conversión de 'size_t' a 'T'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(57,25): warning C4244:         with
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(57,25): warning C4244:         [
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(57,25): warning C4244:             T=float
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(57,25): warning C4244:         ]
+  main.cpp
+  MainGame.cpp
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(58,26): warning C4244:  '=': conversión de 'size_t' a 'T'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(58,26): warning C4244:         with
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(58,26): warning C4244:         [
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(58,26): warning C4244:             T=float
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\Level.cpp(58,26): warning C4244:         ]
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\MainGame.cpp(65,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\MainGame.cpp(69,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\MainGame.cpp(94,61): warning C4244:  'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\MainGame.cpp(94,46): warning C4244:  'argumento': conversión de 'Sint32' a 'float'; posible pérdida de datos
+  PapuEngine.cpp
+  picoPNG.cpp
+  Player.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  SpriteBacth.cpp
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\MainGame.cpp(119,22): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\SpriteBacth.cpp(15,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\SpriteBacth.cpp(44,22): warning C4018:  '<': no coinciden signed/unsigned
+  TextureCache.cpp
+  Window.cpp
+  Zombie.cpp
+  Generando código...
+C:\Users\ASUS\Desktop\Funda-Juegos\TA02\PapuEngine\SpriteBacth.cpp(72,20): warning C4018:  '<': no coinciden signed/unsigned
+  PapuEngine.vcxproj -> C:\Users\ASUS\Desktop\Funda-Juegos\TA02\Debug\PapuEngine.exe
