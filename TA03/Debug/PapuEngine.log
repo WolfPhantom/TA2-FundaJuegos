@@ -1,0 +1,7 @@
+﻿  Zombie.cpp
+  Human.cpp
+c:\users\proyecto\downloads\plataforma2.3\papuengine\human.cpp(13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\proyecto\downloads\plataforma2.3\papuengine\human.cpp(31): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  PapuEngine.vcxproj -> C:\Users\Proyecto\Downloads\Plataforma2.3\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> C:\Users\Proyecto\Downloads\Plataforma2.3\Debug\PapuEngine.pdb (Partial PDB)
